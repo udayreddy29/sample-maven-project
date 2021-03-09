@@ -5,3 +5,6 @@ org.eclipse*
 *bin
 .classpath*
 gc.properties*
+file*
+*.lock
+.gradle/*
