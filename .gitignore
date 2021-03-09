@@ -1,0 +1,7 @@
+fileHashes*
+.project*
+org.eclipse*
+*.class
+*bin
+.classpath*
+gc.properties*
